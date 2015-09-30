@@ -32,6 +32,8 @@ A decent starting point for relational databases is the [wiki article](https://e
      * Converting simple sql queries to relational operations
          * [one document](http://www.databasteknik.se/webbkursen/relalg-lecture/index.html) found from wikipedia, academic formatting but the content isn't bad
      * [Lecture notes](http://www.nyu.edu/classes/jcf/CSCI-GA.2433-001/slides/session5/RelationalAlgebra-RelationalCalculus-SQL.pdf) on relational algebra and the distinction between it and SQL. Pretty comprehensive from first blush.
+     * Also the wiki entry about [SQL and the relational model](https://en.wikipedia.org/wiki/Relational_model#SQL_and_the_relational_model)
+         * tl;dr sql tables have specified column ordering and are multisets while the relational model is about equivalence classes of sets modulo ordering of the cartesian products
      
 
 
